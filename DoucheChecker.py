@@ -19,7 +19,7 @@ def doucheFinder(check):
     elif check == 3:
         print('Both Brian and Joshua are douches today, you are fucked.')
     elif check == 0:
-        print('Neither Brian or Joshua are douches today, you lucky fuck.')
+        print('Neither Brian nor Joshua are douches today, you lucky fuck.')
 
 BrianFactor = doucheFactor()
 JoshuaFactor = doucheFactor()
